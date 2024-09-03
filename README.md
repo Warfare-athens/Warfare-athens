@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Athens Dubey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://res-console.cloudinary.com/drwyws7pz/thumbnails/v1/image/upload/v1725366040/MTcwMDgwMTI4Mzk4N19icjk0bng=/drilldown">
+<img align="right" alt="coding" width="400" src="https://pbs.twimg.com/media/GWjSxuLaoAQXGqU?format=jpg&name=900x900">
 
 - 🌱 I’m currently learning **New technologies**
 
