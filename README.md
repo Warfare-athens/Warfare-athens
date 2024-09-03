@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Athens Dubey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/athens_dubey" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/athens_dubey?logo=twitter&style=for-the-badge" alt="https://x.com/athens_dubey" /></a> </p>
 
 - 🌱 I’m currently learning **New technologies**
 
