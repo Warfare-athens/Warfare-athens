@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Athens Dubey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://previews.dropbox.com/p/thumb/ACbGiu6Va4318DK8M2TYvU52VKfMZYVwOjUL3IXV3c425VVD-TrZiEcG1_c3tb4cT6Jaq1YMPS1MiR4dMRQiHXbF-E2u2qumGUD0tTuxOlHgwF7MuZaUb2LQbdFAR3kEk3XPhkDq7C716xVvaXGHKGjYWkc7HBLhvD2I_j7bJGRos-wa1WT77Dz0g73wZxE8eZYtd_vii5Jbwc_0DOwfiJE-rxYmz6jyPZ6DTAOwUAIQgEtakRGom6utLVrTircLQeY0EARLNyJmhJFCbwINdtgbZvQhEzbGiiAMbVb7qPRwYkvCNzp5sswZmQLTd0KWAgs/p.jpeg)](https://res-console.cloudinary.com/drwyws7pz/thumbnails/v1/image/upload/v1725366040/MTcwMDgwMTI4Mzk4N19icjk0bng=/drilldown">
+<img align="right" alt="coding" width="400" src="https://res-console.cloudinary.com/drwyws7pz/thumbnails/v1/image/upload/v1725366040/MTcwMDgwMTI4Mzk4N19icjk0bng=/drilldown">
 
 - 🌱 I’m currently learning **New technologies**
 
